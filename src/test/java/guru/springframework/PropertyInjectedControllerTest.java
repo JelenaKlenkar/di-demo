@@ -1,7 +1,7 @@
 package guru.springframework;
 
 import guru.springframework.controllers.PropertyInjectedController;
-import guru.springframework.services.GreetingServiceImpl;
+import guru.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 
